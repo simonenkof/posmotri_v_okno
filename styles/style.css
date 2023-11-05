@@ -23,6 +23,7 @@ html {
   justify-content: center;
   align-items: center;
   margin: auto;
+  padding: 0 30px;
   color: #fff;
   font-family: 'Fira Sans Condensed', serif;
   font-size: 18px;
