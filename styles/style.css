@@ -150,7 +150,6 @@ ol {
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
   content: '';
-  position: absolute;
   width: 15px;
   height: 15px;
   background-color: #fff;
