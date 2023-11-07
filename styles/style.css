@@ -221,7 +221,6 @@ ol {
 }
 
 .content__list-item {
-  padding: 2px;
   margin: 2px;
 }
 
@@ -261,7 +260,7 @@ ol {
 .content__video-card-title {
   margin-bottom: 6px;
   color: #FFF;
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   line-height: 100%;
   text-transform: uppercase;
